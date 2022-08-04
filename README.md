@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mocca130604
-- 👀 I’m interested in Mobile Develop
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Front end And Mobile dev
+- 🌱 I’m currently learning Flutter, Vue.js, Laravel
 
 <!---
 Mocca130604/Mocca130604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
