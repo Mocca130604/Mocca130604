@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SIDIGS**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://mocca130604.github.io/hubble1306.space.io/](https://mocca130604.github.io/hubble1306.space.io/)
 
