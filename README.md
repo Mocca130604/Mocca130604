@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mocca130604" alt="mocca130604" /></a> </p>
 
-- 🔭 I’m currently working on **SIDIGS**
+- 🔭 I’m currently working on **DATASEA**
 
 - 🌱 I’m currently learning **React.js**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java Script**
 
-- 📫 How to reach me **medioid13@gmail.com**
+- 📫 How to reach me **firdausmochamad13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
