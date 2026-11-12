@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack & Architecture
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,php,laravel,tailwind,bootstrap,flutter,mysql,git,vite,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,vue,nuxt,js,ts,php,laravel,tailwind,bootstrap,flutter,mysql,git,vite,npm,vscode,postman&theme=dark" />
 </p>
 
 | Category | Technologies & Tools |
